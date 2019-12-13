@@ -15,5 +15,13 @@
 
     <!-- project packages -->
     <project name="physics.git" remote="butter" path="packages/physics" />
+    <project name="controls.git" remote="butter" path="packages/controls" />
+    <project name="systems.git" remote="butter" path="packages/systems" />
+    <project name="interface.git" remote="butter" path="packages/interface" />
+    <project name="playground.git" remote="butter" path="packages/playground" />
+    <project name="entities.git" remote="butter" path="packages/entities" />
+    <project name="options.git" remote="butter" path="packages/options" />
+    <project name="audio.git" remote="butter" path="packages/audio" />
+    <project name="graphics.git" remote="butter" path="packages/graphics" />
 
 </manifest>
