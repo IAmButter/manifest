@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/IAmButter" name="butter"/>
+  <remote fetch="https://github.com/Parrot-Developers" name="parrot-developers"/>
+  
+  <default remote="butter" revision="master" sync-j="4"/>
+  
+  <project name="alchemy.git" path="alchemy" remote="parrot-developers" revision="6739748a58c98092674c9f41a4e448d42b8d9b92" upstream="master"/>
+  <project name="config.git" path="config" revision="13ffc978c4e70d7c0cc7fb1eeb0b31e36d2c8ba2" upstream="master">
+    <copyfile dest="build.sh" src="scripts/root.sh"/>
+  </project>
+</manifest>
