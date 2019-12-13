@@ -14,6 +14,6 @@
     </project>
 
     <!-- project packages -->
-    <project name="physics.git" remote="main" path="packages/physics" />
+    <project name="physics.git" remote="butter" path="packages/physics" />
 
 </manifest>
