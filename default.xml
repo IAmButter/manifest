@@ -13,4 +13,7 @@
     	<copyfile src="scripts/root.sh" dest="build.sh" />
     </project>
 
+    <!-- project packages -->
+    <project name="physics.git" remote="main" path="packages/physics" />
+
 </manifest>
